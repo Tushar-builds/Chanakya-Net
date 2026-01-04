@@ -1,12 +1,12 @@
- Chanakya-Net
+ #**Chanakya-Net**
 
-AI-Powered Public Audit & Fraud Detection System
-
+##**AI-Powered Public Audit & Fraud Detection System
+**
 Chanakya-Net is a prototype AI-driven audit engine designed to detect collusion, financial anomalies, and ghost projects in public infrastructure spending.
 It combines Graph Neural Networks (GNNs), anomaly detection, and cyber-physical verification concepts into a single explainable framework.
- Problem Statement
-
-Traditional public audits are:
+** Problem Statement
+**
+###Traditional public audits are:
 
 Reactive (fraud detected after money is spent)
 
@@ -30,8 +30,8 @@ Detecting abnormal financial behavior using unsupervised anomaly detection
 Producing risk scores instead of binary rules
 
 Remaining explainable and scalable
- Core Technologies
-
+** Core Technologies
+**
 Graph Neural Networks (GraphSAGE) – Collusion detection
 
 Autoencoders – Behavioral anomaly detection
